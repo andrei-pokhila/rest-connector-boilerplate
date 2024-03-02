@@ -1,4 +1,4 @@
-# Veska Python Boilerplate
+# Rest Connector Python Boilerplate
 
 This is a setup for python microservices
 
